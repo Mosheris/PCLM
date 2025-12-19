@@ -1,9 +1,0 @@
-streamlit
-scikit-learn
-xgboost
-shap==0.44.1
-matplotlib
-pandas
-numpy<2.0.0
-joblib
-openpyxl
